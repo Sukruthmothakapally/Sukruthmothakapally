@@ -4,6 +4,6 @@ As a computer science engineer with two years of experience in software developm
 
 One of my passions is machine learning, where I have obtained Google Cloud Platform certifications on machine learning, designed a handwritten number recognition tool using TensorFlow, implemented deep learning layers via Keras, and conducted exploratory data analysis and preprocessing for data prediction. In addition, I have also developed a real-time Twitter spam detector, utilizing Tweepy API.
 
-Currently, I am pursuing a Master of Science in Information Systems and as part of my course curriculum, I'm exploring technologies such as GIT for version control, unittest for testing, Jenkins for CI/CD, Terraform for infrastructure as code, Packer for machine images, and deploying backend to AWS. As a student, I am continually expanding my knowledge and skills, and I am excited to take on new challenges and make a meaningful impact in the industry.
+Currently, I am pursuing a Master of Science in Information Systems and as part of my course curriculum, I'm exploring technologies such as GIT for version control, unittest for testing, Jenkins for CI/CD, Terraform for infrastructure as code, Packer for machine images, and deploying Flask-based API app to AWS by utilizing services such as EC2, S3, RDS, VPC, Route 53, and IAM on the Command-Line Interface. As a student, I am continually expanding my knowledge and skills, and I am excited to take on new challenges and make a meaningful impact in the industry.
 
 ### Contact : mothakapally.s@northeastern.edu

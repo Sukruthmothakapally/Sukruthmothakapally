@@ -10,5 +10,11 @@ As a student, I am continually expanding my knowledge and skills, and I am excit
 
 ## Contact : mothakapally.s@northeastern.edu
 
-![](https://raw.githubusercontent.com/Sukruthmothakapally/mygithub-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Sukruthmothakapally/mygithub-stats/master/generated/languages.svg#gh-dark-mode-only)
+#![](https://raw.githubusercontent.com/Sukruthmothakapally/mygithub-stats/master/generated/overview.svg#gh-dark-mode-only)
+#![](https://raw.githubusercontent.com/Sukruthmothakapally/mygithub-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sukruthmothakapally&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sukruthmothakapally&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukruthmothakapally&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+

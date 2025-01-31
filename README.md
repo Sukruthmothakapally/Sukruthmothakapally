@@ -5,7 +5,7 @@ I’m Sukruth Mothakapally, a software engineer with over two years of experienc
 With strong expertise in Python, Java, and cloud platforms like AWS, I’m passionate about crafting efficient, impactful solutions to tackle complex tech challenges.
 
 ## My portfolio : https://sukruthmothakapally.me/
-## Contact : mothakapally.s@northeastern.edu
+## Contact : mothakapally.s@northeastern.edu | sukruth0402@gmail.com
 
 # My GitHub Stats:
 ![](https://raw.githubusercontent.com/Sukruthmothakapally/mygithub-stats/master/generated/overview.svg#gh-dark-mode-only)

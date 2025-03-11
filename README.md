@@ -1,8 +1,19 @@
-# Hi there 👋
+# LET ME INTRODUCE MYSELF 👋
 
-I’m Sukruth Mothakapally, a software engineer with over two years of experience in building scalable systems, AI-powered tools, and cloud-native applications. Recently, I was part of the founding engineering team at PipeIQ.ai, where I developed key microservices and integrated AI-driven features to enhance user engagement. Currently, I’m pursuing a Master’s in Computer Software Engineering at Northeastern University, where I also work as a Graduate Teaching Assistant for the Data Structures and Algorithms course.
 
-With strong expertise in Python, Java, and cloud platforms like AWS, I’m passionate about crafting efficient, impactful solutions to tackle complex tech challenges.
+- I'm an experienced software engineer with a Master's in Computer Software Engineering from Northeastern University.
+
+- I've worked at 2 AI startups as part of the founding team, taking AI-driven SAAS products from 0→1 and helping drive revenue.
+
+- I thrive in multi-hat responsibilities, working directly with leadership, including the CEO - to turn ideas into solid MVPs.
+
+- My core strength is backend development with microservices, using Python and Java frameworks.
+
+- In the AI space, I've built multi-agent systems, designed RAG-based architectures, fine-tuned LLMs, worked on prompt engineering, and used frameworks like LangChain, LangGraph, and Autogen.
+
+- I've built scalable AWS & GCP native full-stack apps, set up CI/CD pipelines, and handled data engineering workflows.
+
+- For the frontend, I sometimes work with React, JavaScript, and TypeScript. Not my main focus, but I can get things up and running when needed.
 
 ## My portfolio : https://sukruthmothakapally.me/
 ## Contact : mothakapally.s@northeastern.edu | sukruth0402@gmail.com
